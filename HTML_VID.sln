@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HTML_VID", "HTML_VID\", "{2D060A08-5D4E-4A11-9035-CB9C014E47F2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60457"
+		Debug.AspNetCompiler.PhysicalPath = "HTML_VID\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60457\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60457"
+		Release.AspNetCompiler.PhysicalPath = "HTML_VID\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60457\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60457"
+		SlnRelativePath = "HTML_VID\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D060A08-5D4E-4A11-9035-CB9C014E47F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D060A08-5D4E-4A11-9035-CB9C014E47F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1263A142-3161-490F-810A-5E05D120B507}
+	EndGlobalSection
+EndGlobal
